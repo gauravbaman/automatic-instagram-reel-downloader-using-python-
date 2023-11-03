@@ -19,7 +19,17 @@ step-2
 open a python IDE and run the code.
 
 instagram will detect robotic behaviour, to avoid this use a session id.
-To get the session id refer the link https://skylens.io/blog/how-to-find-your-instagram-session-id
+To get the session id :-
+- Open the social network that you'd like to run our bot on
+- Make sure to log into your account (we recommend creating a separate account for this purpose)
+- Right click anywhere on the page and click 'Inspect'
+- Click on the 'Application' tab
+- Now select 'Cookies'
+- Locate the cookie your are looking for (for example, for Instagram you will need the cookie called sessionid)
+- Copy it and insert into the Bot's required form input
+- You are done!
+
+
 
 better to use this method for 250 links as after that instagram will detect robotic behaviour.
 
